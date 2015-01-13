@@ -3,7 +3,7 @@ def get_name_and_age
 	name = gets.chomp
 	puts "How old are you?"
 	age = gets.to_i
-	puts (name + "\n") * age
+	puts name * age
 end
 
 get_name_and_age
