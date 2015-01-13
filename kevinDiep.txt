@@ -1,0 +1,5 @@
+Name: Kevin
+Expectation: I want to be able to build a basic fully functional web app.
+Current Occupation: Web Designer
+Interesting fact: I have an MA in Philosophy
+App Idea: An app that stores semi-frequently used intructions (like long-distance directions, tutorials, recipes, etc)
