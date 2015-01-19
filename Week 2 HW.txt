@@ -1,0 +1,19 @@
+Assignment Answers:
+
+Pt 3
+	1. c
+	2. method declaration/definition, method name, argument, print string, string, variable, end of function/method
+
+Pt 4
+	String.split("")
+		Splits a string by whatever string is specified. If " " is passed through as an argument, each word separated by a space in a sentence string 		will be added as an element of an array. Useful for parsing and manipulating text. 
+
+		For example: array = "Split this sentence!".split(" ") 
+		array returns [Split, this, sentence!]
+
+	Array.push, or <<
+		Pushes a specified element to the highest index in an array. Remarkable for its ease of use in my opinion.
+
+		For example: array = [1,2,3,4,5,6,7,8]
+		array <<  9
+		array now returns [1,2,3,4,5,6,7,8,9]
